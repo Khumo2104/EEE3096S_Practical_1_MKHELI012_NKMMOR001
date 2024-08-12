@@ -1,2 +1,2 @@
-# EEE3096S_Practical_1_MKHELI012_NKMMOR001
+# MKHELI012_NKMMOR001_EEE3096S/Prac1/main.c
 Embedded Systems II Practical 1
